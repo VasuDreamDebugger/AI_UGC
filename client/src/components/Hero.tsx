@@ -113,7 +113,7 @@ export default function Hero() {
                   delay: 0.3,
                 }}
               >
-                <Link to="/" className="w-full sm:w-auto">
+                <Link to="/generator" className="w-full sm:w-auto">
                   <PrimaryButton className="max-sm:w-full py-3 px-7">
                     Start your project
                     <ArrowRightIcon className="size-4" />
